@@ -1,0 +1,15 @@
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/School.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/School.AssemblyInfoInputs.cache
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/School.AssemblyInfo.cs
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/School.csproj.CoreCompileInputs.cache
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/School.sourcelink.json
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/bin/Debug/net8.0/School
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/bin/Debug/net8.0/School.deps.json
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/bin/Debug/net8.0/School.runtimeconfig.json
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/bin/Debug/net8.0/School.dll
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/bin/Debug/net8.0/School.pdb
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/School.dll
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/refint/School.dll
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/School.pdb
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/School.genruntimeconfig.cache
+/Users/suraj/Documents/Work/School/DIS/Week5/Dis-project-assignment/School/obj/Debug/net8.0/ref/School.dll
